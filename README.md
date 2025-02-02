@@ -1,2 +1,2 @@
 # Shell_scripting
-Shell Scripting
+Shell Scripting taught in Placement_Skill_Classes form Dec-2024 
